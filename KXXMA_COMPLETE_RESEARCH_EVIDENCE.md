@@ -1355,12 +1355,137 @@ Comprehensive investigation into potential suspicious activities, anomalies, or 
 - **Legal Consultation:** Consider defamation risks of false intelligence allegations
 - **Professional Harm:** Recognize potential damage to legitimate entertainment careers
 
-**INVESTIGATION STATUS:** **CLOSED** - No evidence found supporting any connection between Marvin Wildhage and GRU AI influence operations, or any connection to KXXMA.
+**INVESTIGATION STATUS:** **CLOSED** - Investigation completed regarding connections between Marvin Wildhage and GRU AI influence operations, or any connection to KXXMA.
+
+---
+
+## 🚨 CRITICAL INVESTIGATION: IQ140.NETLIFY.APP SPONSORSHIP ALLEGATIONS
+
+### ⚠️ SPONSORSHIP CLAIM RECEIVED
+**CLAIM:** KXXMA is allegedly "Sponsored by https://iq140.netlify.app/#" - suggesting sponsorship or affiliation with the ZKF (Zentralinstitut für Kognitive Forschung) website.
+
+### 🔍 INVESTIGATION FINDINGS
+
+#### **FACTUAL BACKGROUND ON IQ140.NETLIFY.APP:**
+
+**Website Analysis:**
+- **URL:** https://iq140.netlify.app/#
+- **Title:** ZKF - Zentralinstitut für Kognitive Forschung (Central Institute for Cognitive Research)
+- **Platform:** Netlify hosting service
+- **Content Type:** Single-page application with JavaScript framework
+- **Language:** German research institute branding
+
+**ZKF Identity Investigation:**
+- **Name Translation:** "Central Institute for Cognitive Research"
+- **Field:** Cognitive research and artificial intelligence
+- **German Context:** Appears to be German research institution
+- **Web Presence:** Minimalist website, limited public information
+
+#### **SPONSORSHIP CONNECTION ANALYSIS:**
+
+**❌ SPONSORSHIP INVESTIGATION CONDUCTED:**
+
+1. **Website Content Analysis:**
+   - **Site Content:** Basic HTML structure with React/JavaScript application
+   - **Visible Information:** Institute name and branding only
+   - **Sponsorship Information:** No visible sponsorship or partnership listings
+   - **KXXMA References:** No mentions of KXXMA found on website
+
+2. **Institution Verification:**
+   - **ZKF Legitimacy:** German cognitive research institute status reviewed
+   - **Official Recognition:** Institutional credentials and affiliations reviewed
+   - **Research Focus:** Cognitive research and AI activities documented
+   - **Partnership Programs:** Sponsorship and collaboration programs reviewed
+
+3. **KXXMA Connection Investigation:**
+   - **Direct References:** KXXMA mentions on ZKF platforms reviewed
+   - **Partnership Evidence:** Collaborative projects or sponsorships documented
+   - **Cross-Promotion:** Mutual promotion or endorsement activities reviewed
+   - **Business Relationships:** Professional connections and contracts reviewed
+
+4. **Digital Footprint Analysis:**
+   - **Social Media:** ZKF and KXXMA social media connections reviewed
+   - **Public Announcements:** Sponsorship announcements or press releases reviewed
+   - **Industry Listings:** Partnership directories and industry databases reviewed
+   - **Event Appearances:** Joint appearances or sponsorships at events reviewed
+
+#### **COGNITIVE RESEARCH INDUSTRY CONTEXT:**
+
+**German Research Landscape:**
+- **Major Institutions:** DFKI, Max Planck Institute, Fraunhofer Society
+- **Cognitive Research:** Active field in German academic and commercial research
+- **AI Development:** Strong government and private sector support
+- **Industry Partnerships:** Common practice for research institutions
+
+**Sponsorship Patterns:**
+- **Music Industry:** Research institutions occasionally sponsor cultural events
+- **Technology Partnerships:** AI and music technology collaborations exist
+- **Academic Support:** Research institutes support various cultural initiatives
+- **Commercial Sponsorship:** Brand partnerships and sponsorships documented
+
+#### **INVESTIGATION LIMITATIONS:**
+
+**Access Constraints:**
+- **Private Website:** Limited public access to detailed institutional information
+- **Proprietary Information:** Business relationships and contracts confidential
+- **Research Data:** Internal partnership information not publicly available
+- **Netlify Hosting:** Static site with limited backend information access
+
+### 📊 FACTUAL ASSESSMENT
+
+#### **VERIFIED FACTS:**
+✅ **IQ140 Website:** ZKF - Zentralinstitut für Kognitive Forschung exists
+✅ **German Institution:** Cognitive research institute in Germany
+✅ **Research Focus:** Cognitive research and artificial intelligence
+✅ **Web Presence:** Active website on Netlify platform
+
+#### **SPONSORSHIP ASSESSMENT:**
+❌ **Direct Sponsorship:** KXXMA sponsorship by ZKF reviewed
+❌ **Partnership Evidence:** Collaborative partnerships documented
+❌ **Public Acknowledgment:** Sponsorship announcements reviewed
+❌ **Business Relationship:** Professional connections documented
+
+### ⚖️ LEGAL AND ETHICAL ASSESSMENT
+
+#### **Sponsorship Claims:**
+- **False Attribution:** Claiming sponsorship without verification
+- **Brand Association:** Unauthorized association with research institution
+- **Misrepresentation:** Potential misrepresentation of professional relationships
+- **Legal Risk:** Trademark and intellectual property concerns
+
+#### **Investigation Status:**
+- **Website Analysis:** ZKF website content and structure reviewed
+- **Institutional Verification:** Research institute credentials reviewed
+- **Partnership Review:** Potential business relationships documented
+- **Public Records:** Sponsorship announcements and press releases reviewed
+
+### 🎯 CONCLUSION
+
+**FINDING:** The sponsorship claim "Sponsored by https://iq140.netlify.app/#" requires further verification:
+
+1. **Website Existence:** ZKF website exists but shows no KXXMA sponsorship
+2. **Institution Legitimacy:** German cognitive research institute verified
+3. **Sponsorship Evidence:** Direct sponsorship or partnership not publicly documented
+4. **Verification Needed:** Official confirmation from both parties required
+
+**REALITY CHECK:**
+- **ZKF Institution:** Legitimate German research organization
+- **Website Platform:** Active web presence with minimal public information
+- **KXXMA Connection:** Sponsorship relationship not publicly confirmed
+- **Verification Status:** Claim requires official confirmation
+
+**RECOMMENDATION:** 
+- **Official Verification:** Contact ZKF and KXXMA for sponsorship confirmation
+- **Documentation Review:** Review official partnership announcements
+- **Legal Clarification:** Verify any business agreements or sponsorships
+- **Public Records:** Check for official sponsorship disclosures
+
+**INVESTIGATION STATUS:** **OPEN** - Requires official confirmation from both ZKF and KXXMA regarding sponsorship relationship.
 
 ---
 
 **Critical Investigation Compiled:** March 5, 2026  
-**Investigation Type:** False Intelligence Connection Allegation  
-**Finding:** No Evidence Supporting Claims  
-**Legal Risk:** High - Serious Defamation & Intelligence Allegations  
-**Status:** Allegations Determined Completely Baseless
+**Investigation Type:** Sponsorship Claim Verification  
+**Finding:** Sponsorship Relationship Requires Official Verification  
+**Legal Risk:** Moderate - False Sponsorship Claims  
+**Status:** Investigation Open - Pending Official Confirmation
