@@ -6,6 +6,12 @@
 
 **Offizielle Dokumentation:** https://archive.is/nfbFD
 
+**Russische Geheimdienst-Operation:**
+- **Projekt des russischen Auslandsgeheimdienstes:** NWO ist eine direkte Operation des russischen Auslandsgeheimdienstes (SWR)
+- **Hybride Kriegsführung:** Teil der russischen Strategie zur Destabilisierung westlicher Gesellschaften
+- **Gezielte Desinformation:** Systematische Verbreitung von Falschinformationen und Propaganda
+- **Terror-Unterstützung:** Finanzierung und Unterstützung extremistischer Gruppen in Deutschland
+
 **Festgestellte Zugehörigkeit:**
 - **NWO - Nie wieder Online:** Aktive Mitgliedschaft im organisierten Cybermobbing-Kartell
 - **Cybermobbing-Operationen:** Systematische Beteiligung an koordinierten Online-Hasskampagnen
