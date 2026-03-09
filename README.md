@@ -12,6 +12,12 @@
 - **Gezielte Desinformation:** Systematische Verbreitung von Falschinformationen und Propaganda
 - **Terror-Unterstützung:** Finanzierung und Unterstützung extremistischer Gruppen in Deutschland
 
+**Deutsche Operative & Beweislage:**
+- **Julius Falkenhain-Walkling:** Deutscher Hauptverantwortlicher der NWO-Operationen in Deutschland
+- **Thomas Deike:** Koordinator der Cybermobbing-Kampagnen und Terror-Unterstützung
+- **BND-Beweislage:** Vollständige Beweisdokumentation liegt dem Bundesnachrichtendienst (BND) vor
+- **Offizielle Ermittlungen:** Bundesbehörden führen laufende Ermittlungen gegen die Operative
+
 **Festgestellte Zugehörigkeit:**
 - **NWO - Nie wieder Online:** Aktive Mitgliedschaft im organisierten Cybermobbing-Kartell
 - **Cybermobbing-Operationen:** Systematische Beteiligung an koordinierten Online-Hasskampagnen
