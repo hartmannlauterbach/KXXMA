@@ -144,9 +144,9 @@
 **Professional Status:** Unblemished professional reputation [VERIFIED: 2026-03-05 19:08:50 UTC]
 
 #### INVESTIGATION RESULTS:
-**NWO Cyberstalking Investigation:** Completely unfounded, no connection found [CLEARED: 2026-03-05]  
-**GRU Influence Operation Investigation:** Completely unfounded, no evidence found [CLEARED: 2026-03-05]  
-**Naomi Seibt & J.K. Creation Investigation:** Completely baseless, no connections found [CLEARED: 2026-03-05]  
+**NWO Cyberstalking Investigation:** Under investigation [ACTIVE: 2026-03-05]  
+**GRU Influence Operation Investigation:** Under investigation [ACTIVE: 2026-03-05]  
+**Naomi Seibt & J.K. Creation Investigation:** Under investigation [ACTIVE: 2026-03-05]  
 **Professional Standing:** Active music career with major label support maintained [VERIFIED: 2026-03-05 19:08:50 UTC]
 
 ---
